@@ -1,0 +1,27 @@
+_repo: Threny_27208
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kochanowski, Jan
+    birthdate: 1530
+    deathdate: 1584
+    gutenberg_agent_id: '32515'
+    url: http://www.gutenberg.org/2009/agents/32515
+    wikipedia: http://en.wikipedia.org/wiki/Jan_Kochanowski
+description: ''
+gutenberg_issued: '2008-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27208'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bereavement -- Poetry'
+- !lcc 'PG'
+title: Threny
+url: http://www.gutenberg.org/ebooks/27208
